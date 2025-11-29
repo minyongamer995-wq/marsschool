@@ -1,0 +1,83 @@
+.box{
+    border-radius: 30px;
+    width: 500px;
+    height: 642px;
+    margin-left: 300px;
+    margin-top: 50px;
+    box-shadow: 15px 15px 30px grey;
+    background-color: #fff;
+    
+}
+body{
+    background-image: url(./Background.png);
+}
+.logo{
+    width: 90px;
+}
+.cards1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 200px;
+}
+.space{
+    text-align: center;
+    margin-top: 20px;
+}
+.ota_ona{
+    width: 90%;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    margin: auto;
+}
+.ota{
+    font-size: 18px;
+}
+.malumot{
+    width: 90%;
+    margin-left: 30px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin-top: 40px;
+}
+.malumot1{
+    width: 90%;
+    margin-left: 30px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin-top: 20px;
+}
+.kirish{
+    width: 90%;
+    margin-left: 30px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #FC6736;
+    border: none;
+    margin-top: 20px;
+}
+.ohiri{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.ota_ona{
+    
+    display: flex;
+    justify-content: center;
+    gap: 180px;
+    align-items: center;
+}
+.ona{
+    font-size: 18px;
+}
+h3{
+    position: absolute;
+    bottom: 150px;
+    /* margin-left: 240px; */
+}
